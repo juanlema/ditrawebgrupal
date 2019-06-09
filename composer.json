@@ -1,0 +1,18 @@
+{
+    "name": "DITRA",
+    "type": "project",
+    "description": "DITRA",
+    "keywords": ["mvc", "app"],
+    "homepage": "https://github.com/panique/php-mvc",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leonardo",
+            "homepage": "http://leonardo.me",
+            "role": "Desarrollador"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
